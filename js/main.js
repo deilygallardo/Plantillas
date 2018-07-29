@@ -2,7 +2,6 @@
 $(document).ready(function() {
 $('#demo').pinterest_grid({	
 no_columns: 5,
-width: 300,
 padding_x: 10,
 padding_y: 10,
 margin_bottom: 50,
