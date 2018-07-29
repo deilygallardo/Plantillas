@@ -1,0 +1,30 @@
+body{
+      background: #002b36;
+  }
+
+  span{
+   padding: 5px;
+   color: #000;
+  }
+  form{
+        background: #4fc6f7;
+        padding: 15px;
+        border-radius: 10px;
+        border: 10px;
+        margin-top: 10px;
+
+}
+img{
+  margin-top: 10px;
+}
+iframe{
+	margin-top: 10px;
+
+}
+h3{
+	text-align: center;
+}
+
+label{
+  color: #000;
+}

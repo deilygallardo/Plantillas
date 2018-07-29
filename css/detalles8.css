@@ -1,0 +1,44 @@
+.fondo1-producto{
+	background: #871cb9;
+	border-radius: 1em;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.fondo2-producto{
+	background: #90b7f2;
+	border-radius: 1em;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+h1{
+	color:#688406;
+}
+h2{
+	color:#b441e9;
+}
+h3{
+	color: #f3ae4a;
+}
+p{
+	text-align: justify;
+}
+.producto-colores{
+	margin-top: 10px;
+	width: 700px;
+}
+.producto-mochilas{
+	margin-top: 10px;
+	width: 700px;
+}
+.producto-contacto{
+	margin-top: 10px;
+	width: 700px;
+}
+.producto-carrito{
+	margin-top: 10px;
+	width: 400px;
+}

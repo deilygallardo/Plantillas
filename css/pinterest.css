@@ -3,6 +3,7 @@
 position: relative;
 max-width: 100%;
 width: 100%;
+margin: 5px 10px ;
 }
 img {
 width: 100%;
@@ -19,8 +20,12 @@ padding: 10px;
 .white-panel h1 {
 font-size: 1em;
 }
+.white-panel p{
+	text-align: justify;
+}
 .white-panel h1 a {
 color: #A92733;
+
 }
 .white-panel:hover {
 box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
@@ -30,3 +35,4 @@ margin-top: -5px;
 -o-transition: all 0.3s ease-in-out;
 transition: all 0.3s ease-in-out;
 }
+
